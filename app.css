@@ -9762,8 +9762,7 @@ salla-product-options [type=checkbox], salla-product-options [type=radio]{backgr
 }
 
 .thumb-slider img {
-  width: 100% !important;
-  height: 100px;
+ 
   object-fit: cover;
 }
 
