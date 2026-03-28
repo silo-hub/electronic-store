@@ -9744,7 +9744,6 @@ salla-product-options [type=checkbox], salla-product-options [type=radio]{backgr
 /* ----------------------------------------
    THUMBNAIL SLIDER
 ----------------------------------------- */
-.thumb-slider { margin-top: 1rem; }
 
 .thumb-slider .owl-item .item {
   cursor: pointer;
